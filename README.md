@@ -1,2 +1,2 @@
 # ejerciciogit
-analisis y desarrollo de software
+ejercicio de inicio
